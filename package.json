@@ -1,4 +1,6 @@
 {
+  "name": "trigram-kata",
+  "version": "1.0.0",
   "license": "GPL-2.0-only",
   "devDependencies": {
     "@types/jest": "^24.0.15",
